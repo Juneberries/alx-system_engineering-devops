@@ -18,3 +18,5 @@
 
 10-back -> Change to previous working directory
 
+11-lists -> list files in current directory, then parent director, then /boot in long format
+
