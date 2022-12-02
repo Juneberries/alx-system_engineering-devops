@@ -8,3 +8,5 @@
 
 4-listmorefiles -> Display all directory content, including hidden files
 
+6-firstdirectory -> Created my_first_directory in /tmp
+
