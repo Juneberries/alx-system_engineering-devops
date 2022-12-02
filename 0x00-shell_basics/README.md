@@ -2,3 +2,5 @@
 
 1-listit -> Displays the contents list of the current directory
 
+2-bring_me_home -> Change working directory to user's home directory
+
