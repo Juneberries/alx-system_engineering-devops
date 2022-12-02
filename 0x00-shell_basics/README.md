@@ -4,3 +4,4 @@
 
 2-bring_me_home -> Change working directory to user's home directory
 
+3-listfiles -> Display current directory contents in a long format
