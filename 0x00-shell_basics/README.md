@@ -14,3 +14,5 @@
 
 8-firstdelete -> Delete file betty from /tmp/my_first_directory
 
+9-firstdirdeletion -> Delete my_first_directory from /tmp
+
